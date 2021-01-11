@@ -1,0 +1,2 @@
+rootProject.name = 'large-xml-parsing'
+include 'data-ingestion', 'data-storage-api'

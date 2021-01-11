@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Registry>
+  <Person id="1032" date="06-Apr-2015">
+    <FirstName>John</FirstName>
+    <LastName>Doe</LastName>
+    <Descriptions>
+      <Description Description1="1"/>
+      <Description Description1="3" Description2="10"/>
+    </Descriptions>
+  </Person>
+  <Person id="1099" date="19-Jul-2014">
+    <FirstName>Catherine</FirstName>
+    <LastName>Boka</LastName>
+    <Descriptions/>
+  </Person>
+</Registry>
